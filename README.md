@@ -1,2 +1,2 @@
 # This is my codewars:
-# codewars.com
+# www.codewars.com/users/DefNewUser
