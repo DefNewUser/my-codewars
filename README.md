@@ -1,2 +1,1 @@
-# This is my codewars:
-# www.codewars.com/users/DefNewUser
+# This is my codewars: codewars.com/users/DefNewUser
