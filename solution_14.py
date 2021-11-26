@@ -43,7 +43,7 @@ def format_duration(seconds):
 
 
 def main():
-    print(format_duration(10008200))
+    print(format_duration(13000000))
 
 
 if __name__ == '__main__':
